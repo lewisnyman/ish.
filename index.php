@@ -36,7 +36,7 @@
 	  </form>
 </div>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
-<script type="text/javascript" src="js/init.js "></script>
+<script type="text/javascript" src="js/ish.js "></script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2687475-3']);
